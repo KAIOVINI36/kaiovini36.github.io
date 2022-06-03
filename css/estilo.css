@@ -1,8 +1,10 @@
 h1 {
   text-align: center;
-  font-size: 60px;
-  color: rgb(129, 3, 3);
-  font-family: iron;
+  font-size: 80px;
+  color: rgb(175, 122, 122);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 7px;
+  text-shadow: 1px 1px 4px #4444;
 }
 
 @font-face {
@@ -13,7 +15,7 @@ h1 {
 hr {
   width: 60%;
   height: 15px;
-  background: orange;
+  background: linear-gradient(90deg, orange, blue);
 }
 
 .texto {
